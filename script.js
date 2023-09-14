@@ -1,1 +1,3 @@
-// your code here
+function myFunction(){
+	document.getElementById("url").innerHTML = "red";
+}
